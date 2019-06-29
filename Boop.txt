@@ -1,1 +1,1 @@
-Blop
+Blop.cmd = false when true
